@@ -21,17 +21,17 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 - **LED 1**: Pino **12** do Arduino
 - **LED 2**: Pino **13** do Arduino
 - O outro terminal do buzzer deve ser conectado ao **GND**
-- Os LEDs devem ter resistores de **220Ω** em série com o **GND**
+- Os LEDs devem ter resistores de **330Ω** em série com o **GND**
 
 ---
 
 ## 📌 Como Usar
 1. Monte o circuito conforme o esquema.
-2. Conecte o Arduino ao computador.
+2. Conecte o Arduino Uno ao computador.
 3. Copie o código-fonte e cole no **Arduino IDE**.
 4. Selecione a placa correta e a porta COM.
 5. Carregue o código para o Arduino.
-6. O buzzer tocará a **Marcha Imperial** e os LEDs piscarão sincronizados com a música.
+6. O buzzer tocará a **Marcha Imperial** e os LEDs piscarão alternadamente com a música.
 
 ---
 
