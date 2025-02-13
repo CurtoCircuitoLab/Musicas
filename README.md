@@ -49,8 +49,8 @@ Este projeto é de código aberto sob a licença **MIT**. Sinta-se livre para mo
 
 ## 📞 Contato
 Caso tenha dúvidas ou sugestões:
-- 📧 **Email:** seuemail@email.com
-- 🔗 **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+- 📧 **Email:** suporte.tecnico@curtocircuito.com
+- 🔗 **GitHub:** [@JefersonAlves-Eng-Meca](https://github.com/JefersonAlves-Eng-Meca)
 
 🚀 Que a força esteja com você! 🛸
 
