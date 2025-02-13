@@ -16,7 +16,7 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 ---
 
 ## 🔧 Esquema de Ligação
-
+![Esquema do Circuito](https://imgur.com/a/4fnNn8g)
 - **Buzzer**: Pino **9** do Arduino
 - **LED 1**: Pino **12** do Arduino
 - **LED 2**: Pino **13** do Arduino
@@ -53,4 +53,7 @@ Caso tenha dúvidas ou sugestões:
 - 🔗 **GitHub:** [@JefersonAlves-Eng-Meca](https://github.com/JefersonAlves-Eng-Meca)
 
 🚀 Que a força esteja com você! 🛸
+
+
+
 
