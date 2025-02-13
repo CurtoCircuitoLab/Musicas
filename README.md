@@ -16,7 +16,7 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 ---
 
 ## 🔧 Esquema de Ligação
-![Esquema do Circuito](https://imgur.com/YrNAwUg)
+![Esquema do Circuito]([https://imgur.com/YrNAwUg](https://github.com/CurtoCircuitoLab/Musicas/blob/main/Esquematicos/Esquematico-Imperial-March_bb.png))
 - **Buzzer**: Pino **9** do Arduino
 - **LED 1**: Pino **12** do Arduino
 - **LED 2**: Pino **13** do Arduino
