@@ -53,6 +53,7 @@ Caso tenha dúvidas ou sugestões:
 - 📧 **Email:** suporte.tecnico@curtocircuito.com
 - 🔗 **GitHub:** [@JefersonAlves-Eng-Meca](https://github.com/JefersonAlves-Eng-Meca)
 - **Acesse o nosso site:** [Curto Circuito](https://curtocircuito.com.br)
+- **Acesse nosso instagram: [Instragam Curto Circuito](https://www.instagram.com/curtocircuito.loja/)
 
 🚀 Que a força esteja com você! 🛸
 
