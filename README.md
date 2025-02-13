@@ -52,7 +52,7 @@ Este projeto é de código aberto sob a licença **MIT**. Sinta-se livre para mo
 Caso tenha dúvidas ou sugestões:
 - 📧 **Email:** suporte.tecnico@curtocircuito.com
 - 🔗 **GitHub:** [@JefersonAlves-Eng-Meca](https://github.com/JefersonAlves-Eng-Meca)
-- **Acesse o nosso site:** [Curto Circuito](https://curtocircuito.com.br){:target="_blank"}
+- **Acesse o nosso site:** [Curto Circuito](https://curtocircuito.com.br)[:target="_blank"]
 
 🚀 Que a força esteja com você! 🛸
 
