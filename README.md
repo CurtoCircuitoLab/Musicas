@@ -7,7 +7,7 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 ## 🛠️ Materiais Necessários
 
 - 1 **Arduino** (Uno, Mega, Nano, etc.)
-- 1 **Buzzer Piezoelétrico**
+- 1 **Buzzer Sem oscilador Interno - 12V**
 - 2 **LEDs**
 - 2 **Resistores** de 330Ω (para os LEDs)
 - **Fios jumper**
