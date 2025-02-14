@@ -12,6 +12,7 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 - 2 **Resistores** de 330Ω (para os LEDs)
 - **Fios jumper**
 - **Protoboard**
+- 1 **Capacitor Poliéster 10nF / 100V - 7x6x2 - B32529**
 
 ---
 
@@ -19,6 +20,7 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 
 ![Esquema do Circuito](https://raw.githubusercontent.com/CurtoCircuitoLab/Musicas/refs/heads/main/Esquematicos/Esquematico-Imperial-March_bb.png)
 
+<img src="https://raw.githubusercontent.com/CurtoCircuitoLab/Musicas/refs/heads/main/Esquematicos/Esquematico-Imperial-March_bb.png" alt="Esquema do Circuito" width="500">
 
 
 
