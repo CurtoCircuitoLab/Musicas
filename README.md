@@ -44,7 +44,9 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 
 Veja o projeto funcionando:
 
-https://youtube.com/shorts/sswAfSUDotw
+
+https://github.com/user-attachments/assets/486a1271-a0a3-46a7-bb5b-f05800176950
+
 
 ## 📜 Licença
 
