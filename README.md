@@ -44,10 +44,7 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 
 Veja o projeto funcionando:
 
-<p align="center">
-  <iframe width="560" height="315" src="https://youtube.com/shorts/sswAfSUDotw" frameborder="0" allowfullscreen></iframe>
-</p>
----
+https://youtube.com/shorts/sswAfSUDotw
 
 ## 📜 Licença
 
@@ -57,8 +54,6 @@ Este projeto é de código aberto sob a licença **MIT**. Sinta-se livre para mo
 
 ## 📞 Contato
 Caso tenha dúvidas ou sugestões:
-- 📧 **Email:** suporte.tecnico@curtocircuito.com
-- 🔗 **GitHub:** [@JefersonAlves-Eng-Meca](https://github.com/JefersonAlves-Eng-Meca)
 - **Acesse o nosso site:** [Curto Circuito](https://curtocircuito.com.br)
 - **Acesse nosso instagram:** [Instragam Curto Circuito](https://www.instagram.com/curtocircuito.loja/)
 
