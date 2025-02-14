@@ -38,7 +38,8 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 
 ## 🔥 Demonstração
 
-Você pode assistir a uma demonstração deste projeto no YouTube: *(adicione um link caso grave um vídeo!)*.
+Veja o projeto funcionando:
+![Video do projeto funcionando com o código, buzzer e leds com Arduino](https://youtube.com/shorts/sswAfSUDotw)
 
 ---
 
@@ -53,7 +54,7 @@ Caso tenha dúvidas ou sugestões:
 - 📧 **Email:** suporte.tecnico@curtocircuito.com
 - 🔗 **GitHub:** [@JefersonAlves-Eng-Meca](https://github.com/JefersonAlves-Eng-Meca)
 - **Acesse o nosso site:** [Curto Circuito](https://curtocircuito.com.br)
-- **Acesse nosso instagram: [Instragam Curto Circuito](https://www.instagram.com/curtocircuito.loja/)
+- **Acesse nosso instagram:** [Instragam Curto Circuito](https://www.instagram.com/curtocircuito.loja/)
 
 🚀 Que a força esteja com você! 🛸
 
