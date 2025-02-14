@@ -16,7 +16,9 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 ---
 
 ## 🔧 Esquema de Ligação
-<img src="https://imgur.com/YrNAwUg" alt="Esquema do Circuito" width="500">
+
+![Esquema do Circuito](https://i.imgur.com/4fnNn8g.png](https://imgur.com/YrNAwUg)
+
 
 
 
