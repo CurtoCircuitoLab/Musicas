@@ -18,8 +18,6 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 
 ## 🔧 Esquema de Ligação
 
-![Esquema do Circuito](https://raw.githubusercontent.com/CurtoCircuitoLab/Musicas/refs/heads/main/Esquematicos/Esquematico-Imperial-March_bb.png)
-
 <img src="https://raw.githubusercontent.com/CurtoCircuitoLab/Musicas/refs/heads/main/Esquematicos/Esquematico-Imperial-March_bb.png" alt="Esquema do Circuito" width="500">
 
 
