@@ -43,8 +43,10 @@ Este projeto reproduz a **Marcha Imperial** (tema de **Star Wars**) utilizando u
 ## 🔥 Demonstração
 
 Veja o projeto funcionando:
-![Video do projeto funcionando com o código, buzzer e leds com Arduino](https://youtube.com/shorts/sswAfSUDotw)
 
+<p align="center">
+  <iframe width="560" height="315" src="https://youtube.com/shorts/sswAfSUDotw" frameborder="0" allowfullscreen></iframe>
+</p>
 ---
 
 ## 📜 Licença
